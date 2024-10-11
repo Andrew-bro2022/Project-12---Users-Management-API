@@ -6,7 +6,7 @@
 
 - The API service will be responsible for the following:
 
-• Creating new users
+• Creating new users<br>
 • Listing all available users<br>
 • Listing a single user<br>
 • Updating an existing user<br>
